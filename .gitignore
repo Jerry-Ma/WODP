@@ -7,3 +7,4 @@
 #and all files in subdirectory b
 !pp_*.py
 !odi_1605_z.py
+!odi.png
