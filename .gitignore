@@ -1,0 +1,9 @@
+*
+# except for .gitignore files in the current directory
+!.gitignore
+# and all files in directory a
+!recipes
+!recipes/*
+#and all files in subdirectory b
+!pp_*.py
+!odi_1605z.py
