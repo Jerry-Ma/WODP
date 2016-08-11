@@ -3,7 +3,7 @@
 !.gitignore
 # and all files in directory a
 !recipes
-!recipes/*
+!recipes/*.py
 #and all files in subdirectory b
 !pp_*.py
-!odi_1605z.py
+!odi_1605_z.py
